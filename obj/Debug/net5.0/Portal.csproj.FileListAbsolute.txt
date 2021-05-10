@@ -1,0 +1,16 @@
+C:\Fontes\Portal\bin\Debug\net5.0\Portal.exe
+C:\Fontes\Portal\bin\Debug\net5.0\Portal.deps.json
+C:\Fontes\Portal\bin\Debug\net5.0\Portal.runtimeconfig.json
+C:\Fontes\Portal\bin\Debug\net5.0\Portal.runtimeconfig.dev.json
+C:\Fontes\Portal\bin\Debug\net5.0\Portal.dll
+C:\Fontes\Portal\bin\Debug\net5.0\ref\Portal.dll
+C:\Fontes\Portal\bin\Debug\net5.0\Portal.pdb
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.csprojAssemblyReference.cache
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.AssemblyInfoInputs.cache
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.AssemblyInfo.cs
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.csproj.CoreCompileInputs.cache
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.dll
+C:\Fontes\Portal\obj\Debug\net5.0\ref\Portal.dll
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.pdb
+C:\Fontes\Portal\obj\Debug\net5.0\Portal.genruntimeconfig.cache
